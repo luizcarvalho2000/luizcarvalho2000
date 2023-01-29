@@ -16,7 +16,7 @@ Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo m
 <a href="https://www.linkedin.com/in/luiz-carvalho-a974a3172"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luizfelipeteixeiradecarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href= "mailto:luiz.fe.carvalho36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5511957219260?text=Ol%C3%A1,%20deixe%20seu%20recado"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5511957219260?text=Ol%C3%A1,%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <div>
 
