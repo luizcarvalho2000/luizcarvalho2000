@@ -10,7 +10,7 @@ Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo m
 <div>
 
 
-<h2/> Entre em contato </h2>
+<h2/> Entre em contato :calling:</h2>
 
 <div>
  
