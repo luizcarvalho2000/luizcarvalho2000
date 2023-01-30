@@ -22,7 +22,9 @@ Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo m
 <div>
  
   
+ 
   </h3> Tecnologias que uso no meu dia </h3>
+  
   
   <div>
  
