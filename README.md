@@ -13,6 +13,7 @@ Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo m
 <h2/> Entre em contato </h2>
 
 <div>
+ 
 <a href="https://www.linkedin.com/in/luiz-carvalho-a974a3172"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/luizfelipeteixeiradecarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href= "mailto:luiz.fe.carvalho36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,7 +25,15 @@ Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo m
   </h3> Linguagens </h3>
   
   <div>
+ 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="<_blank"></a>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="<_blank"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="<_blank"></a>
+  
+  
   
   
   <div>
