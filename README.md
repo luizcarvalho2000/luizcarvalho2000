@@ -7,7 +7,7 @@ Tive meu primeiro contato com a informática na minha adolecencia e ver como aqu
 gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida humana.
 Pretendo atuar na área de desenvolvimento de software colocando em prática o que adquiri nos meus estudos e com os desafios aplicados a mim.
 Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
-Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo me aperfeiçoando na linguagem Python, PHP, ADVPL, SQL bem como SQL Server. Contudo, estou aberto para novas experiências.:slightly_smiling_face:
+Atualmente sou recém formado em analise e desenvolvimentro de sistemas e sigo me aperfeiçoando na linguagem Python, PHP, ADVPL, SQL bem como SQL Server. Contudo, estou aberto para novas experiências. :wink:
 <div>
 
 
