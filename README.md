@@ -26,7 +26,12 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
  
 #### BackEnd:
 
-[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python" target="_blank"/>](https://www.python.org/) 
+<a href="https://www.python.org/" target="_blank">
+    <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
+</a>
+
+
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/) 
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/br/java/technologies/) 
 [<img height="48px" width="48px" alt="Icone C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) 
