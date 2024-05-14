@@ -41,8 +41,9 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/) 
 [<img height="48px" width="48px" alt="Icone Sql Lite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/docs.html) 
-[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
 [<img height="48px" width="48px" alt="Icone SqlServer" src="https://i.postimg.cc/McX0F2Qv/sql-server-1.png"/>](https://www.apachefriends.org/docs/) 
+[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)  
+
 
 ##
 
@@ -50,9 +51,8 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 [<img height="48px" width="48px" alt="Icone Eclipse" src="https://skillicons.dev/icons?i=eclipse"/>](https://www.eclipse.org/) 
 [<img height="48px" width="48px" alt="Icone Pycharm" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pt-br/pycharm/) 
-[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone ChatGpt" src="https://i.postimg.cc/dkLWrZBN/bate-papo-gpt.png"/>](https://github.com/) 
+[<img height="48px" width="48px" alt="Icone ChatGpt" src="https://i.postimg.cc/dkLWrZBN/bate-papo-gpt.png"/>](https://chatgpt.com/) 
 [<img height="48px" width="48px" alt="Icone VS-Studio" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.microsoft.com/pt-br/downloads/)
 [<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/) 
 ## 
