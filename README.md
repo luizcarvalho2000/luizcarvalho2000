@@ -52,24 +52,44 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone ChatGpt" src="https://i.postimg.cc/dkLWrZBN/bate-papo-gpt.png"/>](https://github.com/) 
 [<img height="48px" width="48px" alt="Icone VS-Studio" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.microsoft.com/pt-br/downloads/)
 [<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/) 
-
-
-
- 
+## 
 
 #### Entre em contato comigo :calling:
 
 [<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/luiz-carvalho-a974a3172)
 [<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=gmail"/>](mailto:luiz.fe.carvalho36@gmail.com)
+##
 
+#### Na visão geral abaixo você encontrará minha formação acadêmica:
 
-## Estatísticas:
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/HJHnrQpH/baixados.jpg"/>](https://www.unopar.com.br/)
+**Analise e Desenvolvimento de Sistemas** \
+[**Unopar Anhanguera**](https://www.unopar.com.br/) \
+Matérias & Linguagens: `Modelagem De Dados`, `	Engenharia De Software`, `Desenvolvimento Mobile`, `JavaScript`, `Python`, `Html`, `	Segurança E Auditoria De Sistemas`, `Redes E Sistemas Distribuídos`, `Arquitetura E Organização De Computadores`
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/K1bxfxCD/339c42e4369ac7ff49bd2e9c25f63ade.jpg"/>](https://www.anhanguera.com/)
+**Sistema da Informação** \
+[**Anhanguera**](https://www.anhanguera.com/) \
+Matérias & Linguagens: `Fundamentos de Sistemas de Informação`, `	Arquitetura da Informação`, `Gerenciamento ágil dos sistemas`, `C#`, `Python`, `Html`, `Gestão da informação`, `Governança em TI`
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luiz-carvalho-a974a3172) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+##
+
+#### Estatísticas:
 
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&theme=radical"/>](https://github.com/)
-
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/)
+
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&theme=radical"/>](https://github.com/)
+##
+
+
+
+
+
   
 
     
