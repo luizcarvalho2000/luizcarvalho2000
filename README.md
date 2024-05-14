@@ -13,66 +13,61 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 
  
-  #### Tecnologias que uso no meu dia: 
+#### Tecnologias que uso no meu dia: 
 
-  #### FronEnd:
-  
-  [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone Django" src="https://skillicons.dev/icons?i=django"/>](https://docs.djangoproject.com/en/5.0/)
-   [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-  [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
-  
-  ##
-   
-  #### BackEnd:
-  
-  [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/) 
-  [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/br/java/technologies/) 
-  [<img height="48px" width="48px" alt="Icone C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) 
-  [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=cpp"/>](https://dotnet.microsoft.com/pt-br/languages/csharp) 
+#### FronEnd:
 
- ##
-  
-  #### DataBase
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone Django" src="https://skillicons.dev/icons?i=django"/>](https://docs.djangoproject.com/en/5.0/)
+ [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 
-  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/) 
-  [<img height="48px" width="48px" alt="Icone Sql Server" src="https://skillicons.dev/icons?i=sqlserver"/>](https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16) 
-  [<img height="48px" width="48px" alt="Icone Xampp" src="https://skillicons.dev/icons?i=xampp"/>](https://www.apachefriends.org/docs/) 
-  
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
-  <a href="https://www.apachefriends.org/docs/"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" target="_blank"></a>
-  <br/>
-  ##
-  
-  #### Ferramentas que uso no meu dia:  
-   
-  <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
-  <a href="https://www.jetbrains.com/pt-br/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
-  <a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" target="_black"><a>
-  <br/>
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com) 
-  <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-   
-   <br/>   
+##
+ 
+#### BackEnd:
 
-#### Entre em contato :calling:
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/) 
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://www.oracle.com/br/java/technologies/) 
+[<img height="48px" width="48px" alt="Icone C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) 
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=cpp"/>](https://dotnet.microsoft.com/pt-br/languages/csharp) 
 
-<a href="https://www.linkedin.com/in/luiz-carvalho-a974a3172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href= "mailto:luiz.fe.carvalho36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+##
+
+#### DataBase:
+
+[<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/) 
+[<img height="48px" width="48px" alt="Icone Sql Lite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/docs.html) 
+[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
+
+##
+
+#### Ferramentas que uso no meu dia:  
+
+[<img height="48px" width="48px" alt="Icone Eclipse" src="https://skillicons.dev/icons?i=eclipse"/>](https://www.eclipse.org/) 
+[<img height="48px" width="48px" alt="Icone Pycharm" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pt-br/pycharm/) 
+[<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone VS-Studio" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.microsoft.com/pt-br/downloads/)
+[<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/) 
+ 
+
+#### Entre em contato comigo :calling:
+
+[<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/luiz-carvalho-a974a3172)
+[<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=gmail"/>](mailto:luiz.fe.carvalho36@gmail.com)
 
 
+## Estatísticas:
 
-
- ## Estatísticas:
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact)](https://github.com/luizcarvalho2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact)](https://github.com/luizcarvalho2000/github-readme-stats)
  <br/>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarvalho2000&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarvalho2000&show_icons=true&theme=tokyonight)
 
-   
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/)
+  
 
     
   
