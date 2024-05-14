@@ -68,13 +68,13 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/HJHnrQpH/baixados.jpg"/>](https://www.unopar.com.br/)
 **Analise e Desenvolvimento de Sistemas** \
 [**Unopar Anhanguera**](https://www.unopar.com.br/) \
-Matérias & Linguagens: `Modelagem De Dados`, `	Engenharia De Software`, `Desenvolvimento Mobile`, `JavaScript`, `Python`, `Html`, `	Segurança E Auditoria De Sistemas`, `Redes E Sistemas Distribuídos`, `Arquitetura E Organização De Computadores`
+Matérias & Linguagens:`Modelagem De Dados`, `	Engenharia De Software`,`Desenvolvimento Mobile`,`JavaScript`,`Python`, `Html`,`Segurança E Auditoria De Sistemas`,`Redes E Sistemas Distribuídos`,`Arquitetura E Organização De Computadores`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/K1bxfxCD/339c42e4369ac7ff49bd2e9c25f63ade.jpg"/>](https://www.anhanguera.com/)
 **Sistema da Informação** \
 [**Anhanguera**](https://www.anhanguera.com/) \
-Matérias & Linguagens: `Fundamentos de Sistemas de Informação`, `	Arquitetura da Informação`, `Gerenciamento ágil dos sistemas`, `C#`, `Python`, `Html`, `Gestão da informação`, `Governança em TI`
+Matérias & Linguagens:`Fundamentos de Sistemas de Informação`, `	Arquitetura da Informação`, `Gerenciamento ágil dos sistemas`, `C#`, `Python`, `Html`, `Gestão da informação`, `Governança em TI`
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luiz-carvalho-a974a3172) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
