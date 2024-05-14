@@ -57,6 +57,7 @@ C#, e SQL. Contudo, estou aberto para novas experiências. 😉
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact)](https://github.com/luizcarvalho2000/github-readme-stats)
    <br/>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarvalho2000&show_icons=true&theme=tokyonight)
+   [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000=compact&langs_count=7&theme=radical"/>](https://github.com/luizcarvalho2000/github-readme-stats)
 
    
 
