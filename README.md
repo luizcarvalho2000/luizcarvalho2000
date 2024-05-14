@@ -39,6 +39,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/) 
 [<img height="48px" width="48px" alt="Icone Sql Lite" src="https://skillicons.dev/icons?i=sqlite"/>](https://www.sqlite.org/docs.html) 
 [<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
+[<img height="48px" width="48px" alt="Icone SqlServer" src="https://i.postimg.cc/McX0F2Qv/sql-server-1.png"/>](https://www.apachefriends.org/docs/) 
 
 ##
 
@@ -48,8 +49,12 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone Pycharm" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pt-br/pycharm/) 
 [<img height="48px" width="48px" alt="Icone Azure" src="https://skillicons.dev/icons?i=azure"/>](https://www.apachefriends.org/docs/) 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone ChatGpt" src="https://i.postimg.cc/dkLWrZBN/bate-papo-gpt.png"/>](https://github.com/) 
 [<img height="48px" width="48px" alt="Icone VS-Studio" src="https://skillicons.dev/icons?i=visualstudio"/>](https://visualstudio.microsoft.com/pt-br/downloads/)
 [<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/) 
+
+
+
  
 
 #### Entre em contato comigo :calling:
@@ -60,12 +65,10 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 ## Estatísticas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact)](https://github.com/luizcarvalho2000/github-readme-stats)
- <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcarvalho2000&show_icons=true&theme=tokyonight)
-
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&theme=radical"/>](https://github.com/)
+
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/)
   
 
