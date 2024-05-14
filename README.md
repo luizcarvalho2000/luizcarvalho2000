@@ -7,7 +7,7 @@ gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de fac
 Pretendo atuar na área de desenvolvimento de software colocando em prática o que adquiri nos meus estudos e com os desafios aplicados a mim.
 Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
 Atualmente sou formado em analise e desenvolvimentro de sistemas, Sistema da Informação e sigo me aperfeiçoando na linguagem Python, Java, JavaScript,
-C#, ADVPL e SQL. Contudo, estou aberto para novas experiências. 😉
+C#, e SQL. Contudo, estou aberto para novas experiências. 😉
 <div>
 
 
