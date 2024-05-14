@@ -13,8 +13,6 @@ Atualmente sou formado em analise e desenvolvimentro de sistemas, Sistema da Inf
 C#, e SQL. Contudo, estou aberto para novas experiências. 😉 
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência acadêmica.
-
-
  
 #### Tecnologias que uso no meu dia: 
 
