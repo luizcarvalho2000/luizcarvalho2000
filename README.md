@@ -8,20 +8,7 @@ Pretendo atuar na área de desenvolvimento de software colocando em prática o q
 Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
 Atualmente sou formado em analise e desenvolvimentro de sistemas, Sistema da Informação e sigo me aperfeiçoando na linguagem Python, Java, JavaScript,
 C#, e SQL. Contudo, estou aberto para novas experiências. 😉
-<div>
-
-
-<h2/> Entre em contato :calling:</h2>
-
-<div>
- 
-<a href="https://www.linkedin.com/in/luiz-carvalho-a974a3172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href= "mailto:luiz.fe.carvalho36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<div style="display: inline_block"></br>
-
-<div>
-  
+<div> 
  
   ## Tecnologias que uso no meu dia:     
    
@@ -53,7 +40,17 @@ C#, e SQL. Contudo, estou aberto para novas experiências. 😉
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   <a href="https://visualstudio.microsoft.com/pt-br/downloads/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
    <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-   <br/>
+   <br/>   
+
+## Entre em contato :calling:
+<div>
+ 
+<a href="https://www.linkedin.com/in/luiz-carvalho-a974a3172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href= "mailto:luiz.fe.carvalho36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div style="display: inline_block"></br>
+
+<div>
 
    ## Estatísticas:
 
