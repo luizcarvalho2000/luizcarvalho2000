@@ -1,13 +1,16 @@
-# Olá, Devs!! 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+# Olá, Devs!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1>O meu nome é Luiz, Seja bem vindo ao meu perfil GitHub.</h1> 
 
 Sou apaixonado por tecnologia!❤️ 🖥
+
 Tive meu primeiro contato com a informática na minha adolecencia e ver como aquela máquina funcionava me encantou, 
 gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida humana.
 Pretendo atuar na área de desenvolvimento de software colocando em prática o que adquiri nos meus estudos e com os desafios aplicados a mim.
 Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
 Atualmente sou formado em analise e desenvolvimentro de sistemas, Sistema da Informação e sigo me aperfeiçoando na linguagem Python, Java, JavaScript,
-C#, e SQL. Contudo, estou aberto para novas experiências. 😉
+C#, e SQL. Contudo, estou aberto para novas experiências. 😉 
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência acadêmica.
 
