@@ -89,8 +89,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luiz-carvalho-a
 
   <!-- Estatísticas de streak de commits -->
   <a href="https://github.com/luizcarvalho2000">
-    <img height="180px" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+    <img height="160px" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
   </a>
+  <br/>
 
   <!-- Estatísticas gerais do GitHub -->
   <a href="https://github.com/luizcarvalho2000">
