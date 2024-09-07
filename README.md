@@ -84,10 +84,11 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luiz-carvalho-a
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarvalho2000&layout=compact&langs_count=7&theme=dark"/>](https://github.com/luizcarvalho2000?tab=repositories)
 
 <!-- Estatísticas de streak de commits -->
-[<img height="153px" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/luizcarvalho2000)
+[<img height="160px" alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=luizcarvalho2000&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/luizcarvalho2000)
 
 <!-- Estatísticas gerais do GitHub -->
-[<img height="180px" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&theme=github"/>](https://github.com/luizcarvalho2000)
+[<img height="180px" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api/?username=luizcarvalho2000&show_icons=true&theme=dark"/>]
+(https://github.com/luizcarvalho2000)
 
 
 
